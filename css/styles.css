@@ -116,8 +116,6 @@ height:33%;
   width:90%;
   margin-right: 60%;
   float: right;
-  margin-top: 5%;
-  border-top: 10%;
   padding-top: 30%;
   }
 
@@ -128,6 +126,19 @@ height:33%;
 
   width: 90%;
 
+}
+.row2 h2{
 
+
+    float: left;
+    width: 90%;
+    font-size: 2.5em;
+
+}
+.row2 p{
+
+  float: left;
+  width: 90%;
+  font-size: 1.5em;
 
 }
